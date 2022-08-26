@@ -35,6 +35,6 @@
   "name": "demo",
   "description": "test again",
   "project": {
-    "id": "gitops"
+    "id": "default-project"
   }
 }
