@@ -13,22 +13,9 @@
         },
         "instances": 1
       },
-      "ports": [
-        {
-          "name": "port-1",
-          "internalPort": 80,
-          "protocol": "HTTP",
-          "public": true,
-          "disableNfDomain": false,
-          "security": {
-            "credentials": [],
-            "policies": []
-          },
-          "domains": []
-        }
-      ],
       "description": "Commit test",
-      "runtimeEnvironment": {}
+      "runtimeEnvironment": {},
+      "ports": []
     }
   },
   "name": "demo",
